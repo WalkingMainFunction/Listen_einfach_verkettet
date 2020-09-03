@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599149313 source:c:\users\maxih\documents\github\listen_einfach_verkettet\verkettet_listen_einfuegen_ende\main.c
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+	<windows.h>
+
+1541928834 c:\codeblocks\htl\include\display.h
+	<stdbool.h>
+
